@@ -75,3 +75,31 @@ article {
     padding-right: 20px;
 }
 
+table {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-collapse: collapse; 
+    }
+
+    th,td {
+       border: 1px solid rgb(2, 2, 139);
+       background-color: rgb(57, 57, 230);
+       padding: 5px;
+    }
+
+    td {
+        text-align: center;
+    }
+
+    th {
+        font-size: large;
+    }
+    
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-family: sans-serif;
+        color: rgb(19, 18, 18);
+    }
